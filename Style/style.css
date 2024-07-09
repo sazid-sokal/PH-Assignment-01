@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100..900&display=swap');
+/* font-family: "Azeret Mono", monospace; */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Azeret Mono", monospace;
+}
+/* <!-- -----=== hero-section ===----- --> */
+/* <!-- -----=== Why-Web-Development-section===----- --> */
+/* <!-- -----=== My-Inspiration ===----- --> */
+/* <!-- -----=== My-Current-Target ===----- --> */
+/* <!-- -----=== My-Next-Target ===----- --> */
+/* <!-- -----=== contact-section ===----- --> */
+/* <!-- -----=== footer-section ===----- --> */
