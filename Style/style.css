@@ -35,6 +35,10 @@ img{
     color: white;
     padding: 15px;
     border-radius: 5px;
+    color: white;
+}
+.hero-btn a{
+    color: white;
 }
 /* <!-- -----=== Why-Web-Development-section===----- --> */
 .Why-Web-Development{
@@ -141,4 +145,40 @@ img{
 }
 /* <!-- -----=== My-Next-Target ===----- --> */
 /* <!-- -----=== contact-section ===----- --> */
+.contact{
+    margin: 50px 150px;
+    padding: 80px 150px;
+    width: 77%;
+    background: linear-gradient(rgba(0, 0, 0, 0.421), rgba(0, 0, 0, 0.421)), url('../assets/handshake.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    border-radius: 10px;
+}
+.text{
+ width: 550px;
+ height: 45px;
+ padding-left: 15px;
+}
+.submit{
+    width: 100px;
+    height: 45px;
+    font-weight: bold;
+}
 /* <!-- -----=== footer-section ===----- --> */
+#footer-section{
+    padding: 20px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #f7f8f8;
+}
+.div-icon{
+    display: flex;
+    gap: 10px;
+}
