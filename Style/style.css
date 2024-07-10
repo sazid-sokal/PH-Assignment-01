@@ -101,6 +101,44 @@ img{
     border-radius: 10px;
 }
 /* <!-- -----=== My-Current-Target ===----- --> */
+.current-target{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: cente;
+    text-align: center;
+    gap: 30px;
+    padding: 80px 150px;
+}
+.card-div{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+    text-align: left;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+.card a{
+    text-decoration: underline;
+    color: black;
+}
+.icon img{
+    width: 20%;
+}
+.html{
+    background-color: #fff6f4;
+}
+.css{
+    background-color: #f2f6fe;
+}
+.js{
+    background-color: #fff2fd;
+}
 /* <!-- -----=== My-Next-Target ===----- --> */
 /* <!-- -----=== contact-section ===----- --> */
 /* <!-- -----=== footer-section ===----- --> */
